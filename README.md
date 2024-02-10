@@ -1,6 +1,6 @@
 # GERADOR DE CÓDIGOS DE BARRA COM PYTHON
 
-Construído durante o evento __NLW Expert__ da @Rocketseat 
+Construído durante o evento __NLW Expert__ da @rocketseat-education 
 
 __Durante os três dias de evento foram realizados:__
 - Desenvolvimento de uma aplicação back-end em Python, utilizando Flask como framework. 
